@@ -1,81 +1,36 @@
-<!-- Profile README for Seungju182 -->
-<div align="center">
-
-# Hi there, I'm Seungju! <img src="https://raw.githubusercontent.com/Seungju182/Seungju182/main/assets/wave.gif" width="35" alt="Waving hand"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-%2300BFFF.svg?style=for-the-badge" alt="Full-Stack Developer"/>
-  <img src="https://img.shields.io/badge/Open%20Source%20Lover-%23FF69B4.svg?style=for-the-badge" alt="Open Source Lover"/>
-  <img src="https://img.shields.io/badge/Tech%20Blogger-%23FFA500.svg?style=for-the-badge" alt="Tech Blogger"/>
-</p>
-
-</div>
-
-> "Turning caffeine into clean code and ideas into reality."
-
----
-
-## ⚡ Quick Glance
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>💼 Building delightful web experiences & cloud-native services</li>
-        <li>🔭 Currently shipping production-ready full-stack apps</li>
-        <li>🌱 Leveling up in <strong>AI-powered developer tooling</strong></li>
-        <li>✍️ Writing about software craftsmanship & dev productivity</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>📍 Based in Seoul, South Korea</li>
-        <li>🧠 Favorite stack: <code>TypeScript · React · Node.js</code></li>
-        <li>🎯 2024 Goal: Launch an OSS developer experience toolkit</li>
-        <li>🎧 Currently listening to: <a href="https://open.spotify.com/">Lo-fi focus beats</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Toolbox
+# Hey, I'm Seungju 👋
 
 <div align="center">
-
-| Languages | Frameworks & Libraries | Tools & Platforms |
-|-----------|------------------------|-------------------|
-| <img src="https://skillicons.dev/icons?i=ts,js,py,go" alt="Languages"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" alt="Frameworks"/> | <img src="https://skillicons.dev/icons?i=aws,docker,github,figma" alt="Tools"/> |
-
+  <h2>Quant researcher translating markets, data, and explainable AI into usable systems</h2>
+  <p>Industrial Engineering Ph.D. candidate at Seoul National University and former quantitative analyst at a high-frequency algorithmic proprietary trading firm, building machine-learning workflows and tooling that keep financial teams informed and decisive.</p>
+  <p>
+    <a href="mailto:tonysj@snu.ac.kr"><img src="https://img.shields.io/badge/Email-Ping%20Me-1565C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/></a>
+    <a href="https://www.linkedin.com/in/seungju-lee/"><img src="https://img.shields.io/badge/LinkedIn-Coffee%20Chat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a>
+    <a href="https://sites.google.com/view/sj-lee"><img src="https://img.shields.io/badge/Portfolio-Highlights-00897B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website badge"/></a>
+  </p>
+  <img src="https://img.shields.io/badge/Current%20Mode-Ph.D.%20Candidate-512DA8?style=flat-square" alt="Current mode badge"/>
+  <img src="https://img.shields.io/badge/Base-Seoul-37474F?style=flat-square" alt="Location badge"/>
+  <img src="https://img.shields.io/badge/Last%20Update-October%202025-FF7043?style=flat-square" alt="Last updated badge"/>
 </div>
 
 ---
 
-## 📌 Featured Projects
+## Current Mix
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3><a href="https://github.com/Seungju182/project-aurora">Project Aurora</a></h3>
-        <p>Real-time collaborative whiteboard with AI-powered note summaries.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-        </p>
-        <p><a href="https://aurora-demo.app">Live Demo</a> · <a href="https://github.com/Seungju182/project-aurora">Source</a></p>
+      <td width="33%">
+        <h3>🔬 Research</h3>
+        <p>Exploring multi-asset market behavior with AI, econometrics, and machine learning at SNU’s Statistical Learning & Computational Finance Lab.</p>
       </td>
-      <td width="50%">
-        <h3><a href="https://github.com/Seungju182/astro-journal">Astro Journal</a></h3>
-        <p>Static blog engine optimized for developer journals & digital gardens.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=white" alt="Astro"/>
-          <img src="https://img.shields.io/badge/MDX-1B1F23?style=flat-square&logo=mdx&logoColor=white" alt="MDX"/>
-          <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Pages"/>
-        </p>
-        <p><a href="https://astro-journal.app">Live Demo</a> · <a href="https://github.com/Seungju182/astro-journal">Source</a></p>
+      <td width="33%">
+        <h3>🏗 Build</h3>
+        <p>Former quant at a high-frequency algorithmic proprietary trading firm crafting resilient data pipelines, automated intake scripts, and fast trader tooling.</p>
+      </td>
+      <td width="33%">
+        <h3>🎙 Share</h3>
+        <p>Lecturing finance and analytics courses while helping professionals translate quantitative ideas into practice.</p>
       </td>
     </tr>
   </table>
@@ -83,57 +38,47 @@
 
 ---
 
-## 📈 GitHub Highlights
+## Toolbelt
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seungju182&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seungju182&theme=tokyonight" alt="GitHub Streak" height="150"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungju182&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
+| 🔤 Languages | 🧮 Modeling Playground | ⚙️ Ops & Interfaces |
+| --- | --- | --- |
+| 🐍 Python · 📈 R · ⚙️ C++ · ☕ Java · 🗄 SQL · ✍️ VBA | ⏱ Time-series analysis · 🧠 Deep/Explainable AI · 💹 Financial modeling · 📡 Alternative data wrangling | 🌐 Git · 🐳 Docker · 📊 Bloomberg Terminal · 📊 Excel/VBA automation |
 
----
-
-## 📜 Timeline
-
-- 🎓 <strong>2017:</strong> Computer Science major at KAIST, exploring algorithms.
-- 💼 <strong>2019:</strong> Joined <strong>InnoTech</strong> as a frontend engineer, built data-rich dashboards.
-- 🚀 <strong>2021:</strong> Launched first SaaS product – customer analytics for startups.
-- 🌍 <strong>2022:</strong> Became an OSS maintainer for developer productivity tools.
-- 🧪 <strong>2023:</strong> Experimenting with AI-assisted coding workflows and prompt engineering.
-- ✨ <strong>2024:</strong> Building communities around clean code and dev mentorship.
+</div>
 
 ---
 
-## ✍️ Latest Posts & Talks
+## GitHub Mode
 
-<!-- BLOG-POST-LIST:START -->
-- _Stay tuned for new articles!_
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seungju182&theme=radical" alt="GitHub profile summary card"/>
+</div>
 
-- 🎙️ <strong>Recent Talk:</strong> <a href="https://speakerdeck.com/">"Design Systems for Fast-Moving Teams"</a> @ JSConf Korea
-- 📝 <strong>Newsletter:</strong> <a href="https://buttondown.email/">Dev Flow Weekly</a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Seungju182&theme=radical&column=4&margin-w=10&margin-h=10" alt="GitHub trophy wall"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seungju182&theme=radical&utcOffset=9" alt="Productive time by hour card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seungju182&theme=radical" alt="Repositories per language card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seungju182&theme=radical" alt="Most commit language card"/>
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## Let's Talk
 
-<p align="center">
-  <a href="mailto:seungju@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/seungju182"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/seungju182"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://seungju.dev"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</p>
+<div align="center">
+  <a href="mailto:tonysj@snu.ac.kr"><img src="https://img.shields.io/badge/Email-Say%20Hi-1E88E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/seungju-lee/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://sites.google.com/view/sj-lee"><img src="https://img.shields.io/badge/Portfolio-See%20More-009688?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+</div>
 
 ---
 
 <div align="center">
-
-### Thanks for stopping by! Feel free to ⭐ repositories, open issues, or just say hi.
-
-<img src="https://raw.githubusercontent.com/Seungju182/Seungju182/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
+  <strong>Thanks for stopping in.</strong><br/>
+  Feel free to reach out, star a repo that resonates, or share ideas around finance and AI!
 </div>
-
