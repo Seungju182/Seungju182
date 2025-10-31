@@ -5,7 +5,7 @@
   <p>Industrial Engineering Ph.D. candidate at Seoul National University and former quantitative analyst at a high-frequency algorithmic proprietary trading firm, building machine-learning workflows and tooling that keep financial teams informed and decisive.</p>
   <p>
     <a href="mailto:tonysj@snu.ac.kr"><img src="https://img.shields.io/badge/Email-Ping%20Me-1565C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/></a>
-    <a href="https://www.linkedin.com/in/seungju-lee/"><img src="https://img.shields.io/badge/LinkedIn-Coffee%20Chat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a>
+    <a href="https://www.linkedin.com/in/seungju-lee/"><img src="https://img.shields.io/badge/LinkedIn-seungju--lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a>
     <a href="https://sites.google.com/view/sj-lee"><img src="https://img.shields.io/badge/Portfolio-Highlights-00897B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website badge"/></a>
   </p>
   <img src="https://img.shields.io/badge/Current%20Mode-Ph.D.%20Candidate-512DA8?style=flat-square" alt="Current mode badge"/>
@@ -57,7 +57,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Seungju182&theme=radical&column=4&margin-w=10&margin-h=10" alt="GitHub trophy wall"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Seungju182&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub stats card" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Seungju182&theme=radical" alt="GitHub streak card" height="160"/>
 </div>
 
 <div align="center">
@@ -72,8 +73,8 @@
 
 <div align="center">
   <a href="mailto:tonysj@snu.ac.kr"><img src="https://img.shields.io/badge/Email-Say%20Hi-1E88E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/seungju-lee/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://sites.google.com/view/sj-lee"><img src="https://img.shields.io/badge/Portfolio-See%20More-009688?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/seungju-lee/"><img src="https://img.shields.io/badge/LinkedIn-seungju--lee-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Seungju182"><img src="https://img.shields.io/badge/GitHub-Seungju182-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 ---
