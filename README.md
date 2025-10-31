@@ -2,15 +2,15 @@
 
 <div align="center">
   <h2>Quant researcher translating markets, data, and explainable AI into usable systems</h2>
-  <p>Industrial Engineering Ph.D. candidate at Seoul National University and former quantitative analyst at a high-frequency algorithmic proprietary trading firm, building machine-learning workflows and tooling that keep financial teams informed and decisive.</p>
+  <p>Industrial Engineering Ph.D. candidate at Seoul National University and former quantitative analyst at a high-frequency algorithmic proprietary trading firm, exploring the intersection of finance and artificial intelligence.</p>
   <p>
-    <a href="mailto:tonysj@snu.ac.kr"><img src="https://img.shields.io/badge/Email-Ping%20Me-1565C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/></a>
-    <a href="https://www.linkedin.com/in/seungju-lee/"><img src="https://img.shields.io/badge/LinkedIn-seungju--lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a>
-    <a href="https://sites.google.com/view/sj-lee"><img src="https://img.shields.io/badge/Portfolio-Highlights-00897B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website badge"/></a>
+    <a href="mailto:tonysj@snu.ac.kr"><img src="https://img.shields.io/badge/Email-tonysj@snu.ac.kr-A5C8FF?style=flat&logo=gmail&logoColor=white" alt="Email badge"/></a>
+    <a href="https://www.linkedin.com/in/seungju-lee/"><img src="https://img.shields.io/badge/LinkedIn-seungju--lee-B3E5FC?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a>
+    <a href="https://sites.google.com/view/sj-lee"><img src="https://img.shields.io/badge/Personal%20Website-sites.google.com%2Fview%2Fsj--lee-B2DFDB?style=flat&logo=google-chrome&logoColor=white" alt="Website badge"/></a>
   </p>
-  <img src="https://img.shields.io/badge/Current%20Mode-Ph.D.%20Candidate-512DA8?style=flat-square" alt="Current mode badge"/>
-  <img src="https://img.shields.io/badge/Base-Seoul-37474F?style=flat-square" alt="Location badge"/>
-  <img src="https://img.shields.io/badge/Last%20Update-October%202025-FF7043?style=flat-square" alt="Last updated badge"/>
+  <img src="https://img.shields.io/badge/Current%20Mode-Ph.D.%20Candidate-B39DDB?style=flat-square" alt="Current mode badge"/>
+  <img src="https://img.shields.io/badge/Base-Seoul,%20South%20Korea-C8E6C9?style=flat-square" alt="Location badge"/>
+  <img src="https://img.shields.io/badge/Last%20Update-October%202025-FFD180?style=flat-square" alt="Last updated badge"/>
 </div>
 
 ---
@@ -30,7 +30,7 @@
       </td>
       <td width="33%">
         <h3>🎙 Share</h3>
-        <p>Lecturing finance and analytics courses while helping professionals translate quantitative ideas into practice.</p>
+        <p>Lecturing finance and analytics courses while helping students and professionals translate quantitative ideas into practice.</p>
       </td>
     </tr>
   </table>
@@ -41,30 +41,29 @@
 ## Toolbelt
 
 <div align="center">
-
-| 🔤 Languages | 🧮 Modeling Playground | ⚙️ Ops & Interfaces |
-| --- | --- | --- |
-| 🐍 Python · 📈 R · ⚙️ C++ · ☕ Java · 🗄 SQL · ✍️ VBA | ⏱ Time-series analysis · 🧠 Deep/Explainable AI · 💹 Financial modeling · 📡 Alternative data wrangling | 🌐 Git · 🐳 Docker · 📊 Bloomberg Terminal · 📊 Excel/VBA automation |
-
+  <img src="https://skillicons.dev/icons?i=py,r,cpp,java,mysql,pytorch,bash,linux,git,docker&theme=light" alt="Skill icons"/>
 </div>
 
+- **Languages & Stats:** Python, R, C++, Java, SQL, Excel/VBA  
+- **Modeling Stack:** Time-series analysis, Explainable AI, Econometrics, Natural Language Processing
+- **Tools in Rotation:** Git, Docker, Bloomberg Terminal, Linux, LaTeX
 ---
 
 ## GitHub Mode
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seungju182&theme=radical" alt="GitHub profile summary card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seungju182&theme=github" alt="GitHub profile summary card"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seungju182&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub stats card" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=Seungju182&theme=radical" alt="GitHub streak card" height="160"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Seungju182&show_icons=true&theme=buefy&hide_title=true&count_private=true" alt="GitHub stats card" height="160"/> -->
+  <img src="https://streak-stats.demolab.com/?user=Seungju182&theme=buefy" alt="GitHub streak card" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seungju182&theme=radical&utcOffset=9" alt="Productive time by hour card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seungju182&theme=radical" alt="Repositories per language card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seungju182&theme=radical" alt="Most commit language card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seungju182&theme=github&utcOffset=9" alt="Productive time by hour card"/>
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seungju182&theme=github" alt="Repositories per language card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seungju182&theme=github" alt="Most commit language card"/> -->
 </div>
 
 ---
@@ -72,9 +71,10 @@
 ## Let's Talk
 
 <div align="center">
-  <a href="mailto:tonysj@snu.ac.kr"><img src="https://img.shields.io/badge/Email-Say%20Hi-1E88E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/seungju-lee/"><img src="https://img.shields.io/badge/LinkedIn-seungju--lee-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Seungju182"><img src="https://img.shields.io/badge/GitHub-Seungju182-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:tonysj@snu.ac.kr"><img src="https://img.shields.io/badge/Email-tonysj@snu.ac.kr-64B5F6?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/seungju-lee/"><img src="https://img.shields.io/badge/LinkedIn-seungju--lee-90A4AE?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://sites.google.com/view/sj-lee"><img src="https://img.shields.io/badge/Personal%20Website-sites.google.com%2Fview%2Fsj--lee-81C784?style=flat&logo=google-chrome&logoColor=white" alt="Personal website"/></a>
+  <a href="https://github.com/Seungju182"><img src="https://img.shields.io/badge/GitHub-Seungju182-9FA8DA?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 ---
