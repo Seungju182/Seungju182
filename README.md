@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- <h2>Quant researcher translating markets, data, and explainable AI into usable systems</h2> -->
-  <p>I am an Industrial Engineering Ph.D. candidate at Seoul National University and former quantitative analyst at a high-frequency algorithmic proprietary trading firm, exploring the intersection of finance and artificial intelligence.</p>
+  <p>I am an Industrial Engineering Ph.D. candidate at Seoul National University and former quantitative analyst, exploring the intersection of finance and artificial intelligence.</p>
   <!-- <img src="https://img.shields.io/badge/Current%20Mode-Ph.D.%20Candidate-B39DDB?style=flat-square" alt="Current mode badge"/>
   <img src="https://img.shields.io/badge/Base-Seoul,%20South%20Korea-C8E6C9?style=flat-square" alt="Location badge"/>
   <img src="https://img.shields.io/badge/Last%20Update-October%202025-FFD180?style=flat-square" alt="Last updated badge"/> -->
